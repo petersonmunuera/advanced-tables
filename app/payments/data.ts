@@ -17,19 +17,19 @@ export const payments: Payment[] = [
     id: "728ed52f",
     amount: 150,
     status: "pending",
-    email: "m@example.com",
+    email: "m@hotmail.com",
   },
   {
     id: "489e1d42",
     amount: 175,
     status: "processing",
-    email: "example@gmail.com",
+    email: "pet@gmail.com",
   },
   {
     id: "728ed52f",
     amount: 200,
     status: "pending",
-    email: "m@example.com",
+    email: "m@outlook.com",
   },
   {
     id: "489e1d42",
@@ -41,13 +41,13 @@ export const payments: Payment[] = [
     id: "728ed52f",
     amount: 250,
     status: "pending",
-    email: "m@example.com",
+    email: "pet@example.com",
   },
   {
     id: "489e1d42",
     amount: 275,
     status: "processing",
-    email: "example@gmail.com",
+    email: "example@outlook.com",
   },
   {
     id: "728ed52f",
